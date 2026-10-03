@@ -1,0 +1,63 @@
+TOTAL RETAINED GROUPS: 26
+============================================================
+LIST OF RETAINED BASE FEATURE GROUPS
+============================================================
+01. I1_RMS
+02. I1_Shape_Factor
+03. I1_TKEO_Mean
+04. I1_TKEO_Kurtosis
+05. I1_Spectral_Spread
+06. I1_Harmonic_Distortion
+07. I2_Peak
+08. I2_Kurtosis_Factor
+09. I2_Target_Band_Energy
+10. I2_Harmonic_Distortion
+11. I2_Spectral_Flatness
+12. Cross_CUF
+13. CSV_RMS
+14. CSV_Skewness
+15. CSV_Shape_Factor_2
+16. CSV_Kurtosis_Factor
+17. CSV_Neg_Log_Likelihood
+18. CSV_Harmonic_Distortion
+19. CSV_Spectral_Flatness
+20. CSV_Eccentricity
+21. CSV_Enclosed_Area
+22. CSV_Sample_Entropy
+23. CSV_Higuchi_Fractal_Dim
+24. SWT_RecEnergy
+25. SWT_WaveletEntropy
+26. SWT_SubbandEnergyRatio
+
+============================================================
+ALL INDIVIDUAL COLUMN NAMES BY GROUP
+============================================================
+
+Group: I1_RMS (1 windows)  - Column 0001: I1_RMS_w1
+Group: I1_Shape_Factor (1 windows)  - Column 0006: I1_Shape_Factor_w1
+Group: I1_TKEO_Mean (1 windows)  - Column 0020: I1_TKEO_Mean_w1
+Group: I1_TKEO_Kurtosis (1 windows)  - Column 0021: I1_TKEO_Kurtosis_w1
+Group: I1_Spectral_Spread (1 windows)  - Column 0023: I1_Spectral_Spread_w1
+Group: I1_Harmonic_Distortion (1 windows)  - Column 0026: I1_Harmonic_Distortion_w1
+Group: I2_Peak (1 windows)  - Column 0029: I2_Peak_w1
+Group: I2_Kurtosis_Factor (1 windows)  - Column 0043: I2_Kurtosis_Factor_w1
+Group: I2_Target_Band_Energy (1 windows)  - Column 0054: I2_Target_Band_Energy_w1
+Group: I2_Harmonic_Distortion (1 windows)  - Column 0055: I2_Harmonic_Distortion_w1
+Group: I2_Spectral_Flatness (1 windows)  - Column 0056: I2_Spectral_Flatness_w1
+Group: Cross_CUF (1 windows)  - Column 0058: Cross_CUF_w1
+Group: CSV_RMS (1 windows)  - Column 0060: CSV_RMS_w1
+Group: CSV_Skewness (1 windows)  - Column 0066: CSV_Skewness_w1
+Group: CSV_Shape_Factor_2 (1 windows)  - Column 0071: CSV_Shape_Factor_2_w1
+Group: CSV_Kurtosis_Factor (1 windows)  - Column 0073: CSV_Kurtosis_Factor_w1
+Group: CSV_Neg_Log_Likelihood (1 windows)  - Column 0077: CSV_Neg_Log_Likelihood_w1
+Group: CSV_Harmonic_Distortion (1 windows)  - Column 0085: CSV_Harmonic_Distortion_w1
+Group: CSV_Spectral_Flatness (1 windows)  - Column 0086: CSV_Spectral_Flatness_w1
+Group: CSV_Eccentricity (1 windows)  - Column 0088: CSV_Eccentricity_w1
+Group: CSV_Enclosed_Area (1 windows)  - Column 0090: CSV_Enclosed_Area_w1
+Group: CSV_Sample_Entropy (1 windows)  - Column 0091: CSV_Sample_Entropy_w1
+Group: CSV_Higuchi_Fractal_Dim (1 windows)  - Column 0092: CSV_Higuchi_Fractal_Dim_w1
+Group: SWT_RecEnergy (10 windows)  - Column 0095: SWT_RecEnergy_w1  - Column 0096: SWT_RecEnergy_w2  - Column 0097: SWT_RecEnergy_w3  - Column 0098: SWT_RecEnergy_w4  - Column 0099: SWT_RecEnergy_w5  - Column 0100: SWT_RecEnergy_w6  - Column 0101: SWT_RecEnergy_w7  - Column 0102: SWT_RecEnergy_w8  - Column 0103: SWT_RecEnergy_w9  - Column 0104: SWT_RecEnergy_w10
+Group: SWT_WaveletEntropy (10 windows)  - Column 0105: SWT_WaveletEntropy_w1  - Column 0106: SWT_WaveletEntropy_w2  - Column 0107: SWT_WaveletEntropy_w3  - Column 0108: SWT_WaveletEntropy_w4  - Column 0109: SWT_WaveletEntropy_w5  - Column 0110: SWT_WaveletEntropy_w6  - Column 0111: SWT_WaveletEntropy_w7  - Column 0112: SWT_WaveletEntropy_w8  - Column 0113: SWT_WaveletEntropy_w9  - Column 0114: SWT_WaveletEntropy_w10
+Group: SWT_SubbandEnergyRatio (10 windows)  - Column 0115: SWT_SubbandEnergyRatio_w1  - Column 0116: SWT_SubbandEnergyRatio_w2  - Column 0117: SWT_SubbandEnergyRatio_w3  - Column 0118: SWT_SubbandEnergyRatio_w4  - Column 0119: SWT_SubbandEnergyRatio_w5  - Column 0120: SWT_SubbandEnergyRatio_w6  - Column 0121: SWT_SubbandEnergyRatio_w7  - Column 0122: SWT_SubbandEnergyRatio_w8  - Column 0123: SWT_SubbandEnergyRatio_w9  - Column 0124: SWT_SubbandEnergyRatio_w10
+
+TOTAL RETAINED INDIVIDUAL FEATURE COLUMNS: 53

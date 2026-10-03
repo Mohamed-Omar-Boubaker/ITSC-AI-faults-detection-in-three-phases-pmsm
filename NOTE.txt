@@ -1,0 +1,5 @@
+**A small note of thanks**
+
+Before presenting the work contained in this folder, I would like to sincerely thank my mentor Pr Yasser Gritli for the guidance, patience, and support throughout this internship. This experience allowed me not only to develop my technical skills, but also to learn, explore, make mistakes, and grow through the process.
+
+I am truly grateful for the time, advice, and trust that contributed to making this experience meaningful and valuable to me.
